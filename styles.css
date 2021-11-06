@@ -11,3 +11,13 @@
     background-color: #F19201;
     color: white;
 }
+
+.navbar{
+    display: inline-flex;
+}
+
+.button1{
+    border-radius: 300%;
+    background-color: #F19201;
+    color: white;
+}
