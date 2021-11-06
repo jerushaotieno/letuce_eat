@@ -1,5 +1,6 @@
 .navbar{
     color: #F19201;
+    display: inline-flex;
 }
 
 #moringa_button{
@@ -12,12 +13,17 @@
     color: white;
 }
 
-.navbar{
-    display: inline-flex;
-}
-
 .button1{
-    border-radius: 300%;
+    padding: 10px;
+    border-radius: 100%;
     background-color: #F19201;
     color: white;
+    border:solid 1px white;
+    margin: 5px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
 }
