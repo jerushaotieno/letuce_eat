@@ -42,11 +42,13 @@
 .section_five{
     background-image: url('img/restaurant_footer_image8.png');
     color: white;
+    text-align: center;
 }
 
 .footer{
     color: white;
     background-color: black;
+    text-align: center;
 }
 
 .services_color{
@@ -66,3 +68,5 @@
 .menu{
     text-align: center;
 }
+
+.section_five
