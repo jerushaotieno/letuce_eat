@@ -1,12 +1,15 @@
 .navbar{
     color: #F19201;
-    display: inline-flex;
+    display: flex;
     justify-content: space-between;
+    display: flex;
+    padding-left:50px;
 }
 
 #moringa_button{
     background-color: #F19201;
     color: white;
+    justify-content: space-around;
 }
 
 #order_now{
@@ -38,15 +41,15 @@
 .section_one{
     color: white;
     background-image: url('img/pancakes_image2.png');
-    background-size: 1440px;
-    width: 1440px;
-    height: 1440px;
+    background-size: 1250px;
+    width: 1250px;
+    height: 1250px;
     height: 40%;
 }
 
 .section_five{
     background-image: url('img/restaurant_footer_image8.png');
-    background-size: 1440px;
+    background-size: 1250px;
     height: 100%;
     color: white;
     text-align: center;
@@ -143,4 +146,12 @@
 
 .sub_container_1{
     margin-bottom: 10px;
+}
+
+.premium{
+    padding-left: 10%;
+}
+
+.logo{
+    padding-right: 10%;
 }
