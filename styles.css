@@ -11,6 +11,7 @@
     background-color: #F19201;
     color: white;
     justify-content: space-around;
+    margin-left: 5px;
 }
 
 #order_now{
@@ -138,7 +139,7 @@
     flex-basis: 25%;
     border-style: solid;
     border-color: rgb(228, 224, 224);
-    border-width: 20px;
+    border-width: 1px;
     background-color: white;
 }
 
@@ -149,7 +150,7 @@
     flex-basis: 25%;
     border-style: solid;
     border-color: rgb(228, 224, 224);
-    border-width: 20px;
+    border-width: 1px;
     background-color: white;
 }
 
@@ -160,7 +161,7 @@
     flex-basis: 25%;
     border-style: solid;
     border-color: rgb(228, 224, 224);
-    border-width: 20px;
+    border-width: 1px;
     background-color: white;
 }
 
@@ -184,4 +185,8 @@
     padding-left: 50%;
     justify-content: space-between;
     margin-right: auto;
+}
+
+a{
+    padding-left: 10px;
 }
