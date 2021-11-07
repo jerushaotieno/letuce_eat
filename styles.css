@@ -72,3 +72,22 @@
 .grey{
     background-color: rgb(228, 224, 224);
 }
+
+.white_border{
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    width: 40%;
+    display: inline-flex;
+}
+
+.main_container{
+    display: flexbox;
+}
+
+.white_border_1{
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    width: 40%;
+}
