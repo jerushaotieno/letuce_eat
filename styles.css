@@ -107,6 +107,7 @@
     width: 100%;
     height: 100%;
     justify-items: space-between;
+    text-align: center;
 }
 
 .section_four{
@@ -122,9 +123,22 @@
     justify-content: space-around;
 }
 
+.space_1{
+    padding: auto;
+    margin-right: 3%;
+    justify-content: space-between;
+}
+
 .space{
     padding: auto;
-    margin-right: 10%;
+    margin-right: 3%;
+    justify-content: space-between;
+}
+
+.space_2{
+    padding: auto;
+    margin-right: 3%;
+    justify-content: space-between;
 }
 
 .sub_container_1{
