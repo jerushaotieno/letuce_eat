@@ -38,6 +38,7 @@
     background-color: black;
     color: white;
     display: flex;
+    position: 50%;
 }
 
 .section_one{
